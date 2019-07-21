@@ -1,5 +1,8 @@
 {
   "name": "rails-my-docs",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bulma": "^0.7.5",
+    "vue": "^2.6.10"
+  }
 }
