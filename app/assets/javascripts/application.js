@@ -13,5 +13,5 @@
 //= require rails-ujs
 //= require activestorage
 //= require turbolinks
-//= require vue
+//= require vue/dist/vue.js
 //= require_tree .
